@@ -1,3 +1,7 @@
+## Richard M. Palmer
+## R Programming
+## week 3 assignment
+##
 ## Put comments here that give an overall description of what your
 ## functions do
 
