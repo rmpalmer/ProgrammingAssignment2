@@ -5,8 +5,8 @@
 ## Functions to (1) create a special matrix list
 ## and to (2) compute and cache the inverse of that matrix
 
-## Create a list that consists of functions for storing
-## a matrix, as well as calculating and storing its inverse
+## Create a list that consists of functions for storing and retrieving
+## a matrix, as well as storing and retrieving its inverse
 ## Elements of the list:
 ##  $set        - set the data of the matrix, also clear the inverse
 ##  $get        - get the data of the matrix
